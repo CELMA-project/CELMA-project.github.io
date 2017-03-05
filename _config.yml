@@ -1,1 +1,21 @@
-theme: jekyll-theme-dinky
+title: CELMA
+# Goes into the box
+description: Global drift-fluid model in a cylinder geometry.
+# Should always be on
+show_downloads: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      # "pages" refers to "page"
+      type: "pages"
+    values:
+      code_txt: "CELMA code"
+      code_url: "https://github.com/CELMA-project/CELMA/releases/latest"
+      diss_txt: "Dissertation"
+      diss_url: "http://github.com/CELMA-project/dissertation/releases/latest"
+      repo_code_txt: "Code repo"
+      repo_code_url: "https://github.com/CELMA-project/CELMA"
+      repo_diss_txt: "Dissertation repo"
+      repo_diss_url: "http://github.com/CELMA-project/dissertation"
