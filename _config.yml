@@ -14,7 +14,7 @@ defaults:
       code_txt: "CELMA code"
       code_url: "https://github.com/CELMA-project/CELMA/releases/latest"
       diss_txt: "Dissertation"
-      diss_url: "http://github.com/CELMA-project/dissertation/releases/latest"
+      diss_url: "https://github.com/CELMA-project/dissertation/releases/download/v1.0.0/17_PhD_Loeiten.pdf"
       repo_code_txt: "Code repo"
       repo_code_url: "https://github.com/CELMA-project/CELMA"
       repo_diss_txt: "Dissertation repo"
