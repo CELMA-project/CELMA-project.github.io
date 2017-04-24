@@ -12,7 +12,7 @@ defaults:
       type: "pages"
     values:
       code_txt: "CELMA code"
-      code_url: "https://github.com/CELMA-project/CELMA/releases/latest"
+      code_url: "https://github.com/CELMA-project/CELMA"
       diss_txt: "Dissertation"
       diss_url: "https://github.com/CELMA-project/dissertation/releases/download/v1.1.0/17_PhD_Loeiten.pdf"
       repo_code_txt: "Code repo"
